@@ -25,12 +25,6 @@
         <img src="https://img.shields.io/badge/website-mcp--use.com-blue" /></a>
     </p>
     <p align="center">
-    <a href="https://x.com/pietrozullo" alt="Twitter Follow - Pietro">
-        <img src="https://img.shields.io/twitter/follow/Pietro?style=social" /></a>
-    <a href="https://x.com/pederzh" alt="Twitter Follow - Luigi">
-        <img src="https://img.shields.io/twitter/follow/Luigi?style=social" /></a>
-    <a href="https://discord.gg/XkNkSkMz3V" alt="Discord">
-        <img src="https://dcbadge.limes.pink/api/server/XkNkSkMz3V?style=flat" /></a>
 </p>
 </div>
 
