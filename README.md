@@ -7,13 +7,6 @@
   </picture>
 </div>
 
-<div align="center">
-  <h2>🎉 <strong>We're LIVE on Product Hunt!</strong> 🎉</h2>
-  <p><strong>Support us today and help us reach #1!</strong></p>
-  <a href="https://www.producthunt.com/products/mcp-use?embed=true&utm_source=badge-featured&utm_medium=badge&utm_source=badge-mcp&#0045;use" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1002629&theme=neutral&t=1754609432704" alt="mcp&#0045;use - Open&#0032;source&#0032;SDK&#0032;and&#0032;infra&#0032;for&#0032;MCP&#0032;servers&#0032;&#0038;&#0032;agents | Product Hunt" style="width: 220px; height: 54px;" width="250" height="54" /></a>
-  <p>👆 <em>Click to upvote and leave a comment!</em></p>
-</div>
-
 <h1 align="center">🚀 Create MCP Clients and Agents</h1>
 <p align="center">
     <a href="https://github.com/pietrozullo/mcp-use/stargazers" alt="GitHub stars">
@@ -42,12 +35,6 @@
 </div>
 
 🌐 MCP-Use is the open source way to connect **any LLM to any MCP server** and build custom MCP agents that have tool access, without using closed source or application clients.
-
-💡 Let developers easily connect any LLM to tools like web browsing, file operations, and more.
-
-- If you want to get started quickly check out [mcp-use.com website](https://mcp-use.com/) to build and deploy agents with your favorite MCP servers.
-- Visit the [mcp-use docs](https://docs.mcp-use.com/) to get started with mcp-use library
-- For the TypeScript version, visit [mcp-use-ts](https://github.com/mcp-use/mcp-use-ts)
 
 | Supports       |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 | :------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
